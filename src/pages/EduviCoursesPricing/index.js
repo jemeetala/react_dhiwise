@@ -89,7 +89,7 @@ const EduviCoursesPricingPage = () => {
             />
             <Input
               className="placeholder:bg-transparent bg-transparent border-0 border-b-[1px] border-gray_900_26 font-normal lg:ml-[23px] xl:ml-[26px] ml-[30px] 3xl:ml-[36px] lg:mt-[11px] xl:mt-[13px] mt-[15px] 3xl:mt-[18px] lg:pb-[18px] xl:pb-[20px] pb-[23.58px] 2xl:pb-[23px] 3xl:pb-[28px] pl-[0] pt-[2.58px] 2xl:pt-[2px] xl:pt-[2px] lg:pt-[2px] 3xl:pt-[3px] lg:text-[23px] xl:text-[26px] text-[30px] 3xl:text-[36px] placeholder:text-gray_900 text-gray_900 text-left w-[85%]"
-              name="Basic Pack"
+              name="Group3"
               placeholder={`Basic Pack`}
             ></Input>
             <Row className="items-center justify-start lg:ml-[23px] xl:ml-[26px] ml-[30px] 3xl:ml-[36px] lg:mt-[15px] xl:mt-[17px] mt-[20px] 3xl:mt-[24px] w-[66%]">
@@ -176,7 +176,7 @@ const EduviCoursesPricingPage = () => {
             />
             <Input
               className="placeholder:bg-transparent bg-transparent border-0 border-b-[1px] border-gray_900_26 font-normal lg:ml-[23px] xl:ml-[26px] ml-[30px] 3xl:ml-[36px] lg:mt-[11px] xl:mt-[13px] mt-[15px] 3xl:mt-[18px] lg:pb-[18px] xl:pb-[20px] pb-[23.58px] 2xl:pb-[23px] 3xl:pb-[28px] pl-[0] pt-[2.58px] 2xl:pt-[2px] xl:pt-[2px] lg:pt-[2px] 3xl:pt-[3px] lg:text-[23px] xl:text-[26px] text-[30px] 3xl:text-[36px] placeholder:text-gray_900 text-gray_900 text-left w-[85%]"
-              name="Standard Pack"
+              name="Group4"
               placeholder={`Standard Pack`}
             ></Input>
             <Row className="items-center justify-start lg:ml-[23px] xl:ml-[26px] ml-[30px] 3xl:ml-[36px] lg:mt-[15px] xl:mt-[17px] mt-[20px] 3xl:mt-[24px] w-[66%]">
@@ -263,7 +263,7 @@ const EduviCoursesPricingPage = () => {
             />
             <Input
               className="placeholder:bg-transparent bg-transparent border-0 border-b-[1px] border-gray_900_26 font-normal lg:ml-[23px] xl:ml-[26px] ml-[30px] 3xl:ml-[36px] lg:mt-[11px] xl:mt-[13px] mt-[15px] 3xl:mt-[18px] lg:pb-[18px] xl:pb-[20px] pb-[23.58px] 2xl:pb-[23px] 3xl:pb-[28px] pl-[0] pt-[2.58px] 2xl:pt-[2px] xl:pt-[2px] lg:pt-[2px] 3xl:pt-[3px] lg:text-[23px] xl:text-[26px] text-[30px] 3xl:text-[36px] placeholder:text-gray_900 text-gray_900 text-left w-[85%]"
-              name="Premium Pack"
+              name="Group2"
               placeholder={`Premium Pack`}
             ></Input>
             <Row className="items-center justify-start lg:ml-[23px] xl:ml-[26px] ml-[30px] 3xl:ml-[36px] lg:mt-[15px] xl:mt-[17px] mt-[20px] 3xl:mt-[24px] w-[68%]">

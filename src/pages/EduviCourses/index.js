@@ -186,7 +186,7 @@ const EduviCoursesPage = () => {
             <Button className="bg-white_A700 font-medium lg:py-[17px] xl:py-[19px] py-[22px] 3xl:py-[26px] rounded-radius10 lg:text-[12px] xl:text-[14px] text-[16px] 3xl:text-[19px] text-center text-gray_900 w-[12%]">{`All Courses`}</Button>
             <Input
               className="placeholder:bg-transparent bg-white_A700 border-0 font-medium lg:ml-[15px] xl:ml-[17px] ml-[20px] 3xl:ml-[24px] lg:pl-[23px] xl:pl-[26px] pl-[30px] 3xl:pl-[36px] lg:py-[17px] xl:py-[19px] py-[22px] 3xl:py-[26px] rounded-radius10 lg:text-[12px] xl:text-[14px] text-[16px] 3xl:text-[19px] placeholder:text-gray_900 text-gray_900 text-left w-[12%]"
-              name="Kindergarten"
+              name="Highschool"
               placeholder={`Kindergarten`}
             ></Input>
             <Button className="bg-deep_orange_400 font-medium lg:ml-[15px] xl:ml-[17px] ml-[20px] 3xl:ml-[24px] lg:py-[17px] xl:py-[19px] py-[22px] 3xl:py-[26px] rounded-radius10 shadow-bs2 lg:text-[12px] xl:text-[14px] text-[16px] 3xl:text-[19px] text-center text-white_A700 w-[12%]">{`High School`}</Button>
@@ -328,7 +328,7 @@ const EduviCoursesPage = () => {
                       />
                       <Input
                         className="placeholder:bg-transparent bg-white_A700 border-0 font-medium font-metropolis lg:pl-[15px] xl:pl-[17px] pl-[20px] 3xl:pl-[24px] lg:pr-[183px] xl:pr-[209px] pr-[236.04000999999997px] 2xl:pr-[236px] 3xl:pr-[283px] lg:py-[18px] xl:py-[20px] py-[23.38px] 2xl:py-[23px] 3xl:py-[28px] rounded-radius10 lg:text-[12px] xl:text-[14px] text-[16px] 3xl:text-[19px] placeholder:text-gray_700_99 text-gray_700_99 text-left w-[100%]"
-                        name="Serach Class, C"
+                        name="Group11"
                         placeholder={`Serach Class, Course`}
                       ></Input>
                     </div>

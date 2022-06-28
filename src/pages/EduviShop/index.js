@@ -100,7 +100,7 @@ const EduviShopPage = () => {
             <Column className="absolute h-[max-content] inset-y-[0] items-start justify-start left-[6%] my-[auto] w-[42%]">
               <Input
                 className="bg-blue_50 placeholder:bg-transparent border-0 font-medium lg:pl-[12px] xl:pl-[14px] pl-[16px] 3xl:pl-[19px] xl:py-[10px] py-[11.38px] 2xl:py-[11px] 3xl:py-[13px] lg:py-[8px] rounded-radius10 lg:text-[12px] xl:text-[14px] text-[16px] 3xl:text-[19px] placeholder:text-gray_900_66 text-gray_900_66 text-left tracking-ls1 w-[35%]"
-                name="Home | Our Ment"
+                name="Breadcrumbs"
                 placeholder={`Home | Our Mentors`}
               ></Input>
               <Button className="bg-white_A700 font-medium lg:mt-[18px] xl:mt-[21px] mt-[24px] 3xl:mt-[28px] lg:py-[13px] xl:py-[14px] py-[16.72px] 2xl:py-[16px] 3xl:py-[20px] rounded-radius10 lg:text-[15px] xl:text-[17px] text-[20px] 3xl:text-[24px] text-center text-deep_orange_400 w-[39%]">{`Never Stop Learning`}</Button>

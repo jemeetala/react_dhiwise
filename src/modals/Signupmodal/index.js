@@ -92,7 +92,7 @@ const SignupmodalModal = (props) => {
                   />
                   <Input
                     className="placeholder:bg-transparent bg-white_A700 border border-gray_300 border-solid font-normal not-italic pb-[24.49px] lg:pl-[42px] xl:pl-[48px] pl-[54.03px] 2xl:pl-[54px] 3xl:pl-[64px] pt-[24.5px] lg:py-[19px] xl:py-[21px] 2xl:py-[24px] 3xl:py-[29px] rounded-radius10 lg:text-[12px] xl:text-[14px] text-[16px] 3xl:text-[19px] placeholder:text-gray_700 text-gray_700 text-left w-[100%]"
-                    name="Esther Howard"
+                    name="Group38"
                     placeholder={`Esther Howard`}
                   ></Input>
                 </div>
@@ -105,7 +105,7 @@ const SignupmodalModal = (props) => {
                   />
                   <Input
                     className="placeholder:bg-transparent bg-white_A700 border border-gray_300 border-solid font-normal not-italic lg:pl-[42px] xl:pl-[48px] pl-[54.00px] 2xl:pl-[54px] 3xl:pl-[64px] lg:py-[20px] xl:py-[23px] py-[26px] 3xl:py-[31px] rounded-radius10 lg:text-[12px] xl:text-[14px] text-[16px] 3xl:text-[19px] placeholder:text-gray_700 text-gray_700 text-left w-[100%]"
-                    name="bill.sanders@ex"
+                    name="Group39"
                     placeholder={`bill.sanders@example.com`}
                   ></Input>
                 </div>

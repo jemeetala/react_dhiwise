@@ -187,7 +187,7 @@ const EduviPage = () => {
             </Column>
             <Input
               className="bg-blue_50 placeholder:bg-transparent border-0 font-medium lg:mt-[55px] xl:mt-[63px] mt-[71px] 3xl:mt-[85px] lg:pl-[12px] xl:pl-[14px] pl-[16px] 3xl:pl-[19px] xl:py-[10px] py-[11.38px] 2xl:py-[11px] 3xl:py-[13px] lg:py-[8px] rounded-radius10 lg:text-[12px] xl:text-[14px] text-[16px] 3xl:text-[19px] placeholder:text-gray_900_66 text-gray_900_66 text-left tracking-ls1 w-[16%]"
-              name="Home | Our Ment"
+              name="Breadcrumbs"
               placeholder={`Home | Our Mentors`}
             ></Input>
           </Column>
